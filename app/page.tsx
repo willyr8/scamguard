@@ -67,7 +67,7 @@ export default function Home() {
         <div className="mt-8 rounded-xl bg-white p-6 text-left shadow-md">
           <h2 className="text-xl font-semibold">Periksa Token</h2>
           <p className="mt-1 text-sm text-slate-600">
-            Masukkan alamat kontrak token untuk memeriksa apakah termasuk scam atau tidak
+            Masukkan alamat kontrak token untuk memeriksa 
           </p>
           <label className="mt-5 block text-xs font-medium">Alamat Kontrak Token</label>
           <div className="mt-2 flex gap-2">
